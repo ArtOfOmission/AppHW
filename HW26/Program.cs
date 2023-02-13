@@ -15,7 +15,9 @@ namespace HW26
 			//https://www.nowcoder.com/discuss/353150253526360064
 
 
+			//-3 -1 5 7 11 15
 			string inputStr = Console.ReadLine();
+
 
 			var arr = inputStr
 				.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
